@@ -6,7 +6,7 @@
 4) set up Alibaba cloud server 
 
 
-- setup minimal system to use IoT server 
+- setup minimal system IoT server 
 - setup firewall 
 - setup virtual disk
 - setup securities 
